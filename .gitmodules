@@ -1,3 +1,6 @@
 [submodule "microservice-vertical-pattern-py"]
 	path = microservice-vertical-pattern-py
 	url = https://github.com/R3PO97/microservice-vertical-pattern-py.git
+[submodule "dynamic-web-single-pattern-py"]
+	path = dynamic-web-single-pattern-py
+	url = https://github.com/R3PO97/dynamic-web-single-pattern-py.git
