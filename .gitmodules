@@ -1,0 +1,3 @@
+[submodule "microservice-vertical-pattern-py"]
+	path = microservice-vertical-pattern-py
+	url = https://github.com/R3PO97/microservice-vertical-pattern-py.git
